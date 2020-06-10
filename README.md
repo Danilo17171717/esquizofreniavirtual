@@ -15,30 +15,38 @@ Según los cambios efectuados por el aislamiento social presenta una modificaci�
 
 ### Roma - Italia
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/italia/lazio/roma/fontana-di-trevi.html)
+![Roma - Italia](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/roma%20italia.png)
 
 ### Buenos Aires - Argentina
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/argentina/buenos-aires/buenos-aires/buenos-aires.html)
+![Buenoa Aires - Argentina](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/buenos%20aires%20argentina.png)
 
 ### Brujas - Bélgica
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/belgique/flandres/bruges/bruges.html)
+![Bujas - Bélgica](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/brujas%20belgica.png)
 
 ### El nido - Filipinas
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/philippines/mimaropa/palawan/el-nido.html)
+![El nido - Filipinas](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/el%20nido%20filipinas.png)
 
 ### Muro de los lamentos - Jerusalen
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/israel/jerusalem-district/jerusalem/western-wall.html)
+![Muro de los lamentos - Jerusalen](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/rerusalen%20muro%20de%20los%20lamentos.png)
 
 ### Parlamento Helénico - Atenas
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/ellada/atiki/athina/hellenic-parliament.html)
+![Parlamento Helénico - Atenas](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/Parlamento%20helenico%20Atenas.png)
 
 ### Catedral de Milán
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/italia/lombardia/milano/duomo-milano.html)
+![Catedral de Milan](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/catedral%20de%20milan.png)
 
 ### Plaza del rey - Croacia
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/hrvatska/varazdinska/varazdin/trg-kralja-tomislava.html)
 
 ### Eindhoven - Paises Bajos
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/netherlands/north-brabant/eindhoven/eindhoven.html)
+![Eindhoven - Paises Bajos](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/paises%20bajos%20eindhoven.png)
 
 ## *Análisis y conclusiones*
 
