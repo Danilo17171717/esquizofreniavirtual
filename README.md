@@ -11,6 +11,7 @@ Según los cambios efectuados por el aislamiento social presenta una modificaci�
 
 ### Madrid - España
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/puerta-del-sol.html)
+![Madrid - España](https://github.com/Danilo17171717/esquizofreniavirtual/blob/master/Madrid%20Espa%C3%B1a.png)
 
 ### Roma - Italia
 [Clic aquí para ver camara en vivo](https://www.skylinewebcams.com/es/webcam/italia/lazio/roma/fontana-di-trevi.html)
